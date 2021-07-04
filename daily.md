@@ -13,4 +13,5 @@
 
 ### DAY04（2021-7-3）
 
-+ 刷完了《Rust 程序设计语言 简体中文版》，安装好了rustlings，开始做 `rustlings` 。
++ 刷完了《Rust 程序设计语言 简体中文版》，安装好了 `rustlings` ，开始做 `rustlings` 。答案将会更新到 [这个仓库](https://github.com/smallzhong/rustlings) 中。
+
